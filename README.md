@@ -1,4 +1,4 @@
-# Ola! Eu Vitor Menezes
+# Ola! Eu sou Vitor Menezes
 * 😉  Windows ponto 
 * 🌱  Estudando Python
 
